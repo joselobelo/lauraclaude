@@ -1,0 +1,32 @@
+Universidad INCCA de Colombia
+Teacher: Alejandro Aldana Salcedo
+Subject: INTERNATIONAL LOGISTICS
+TEAM LEADER: ________________________________
+WORK TEAM
+NAME     CODE
+SECOUND CUT HOMEWORK
+
+Si eres el gerente de proyectos en una empresa de marketing internacional y se te ha adjudicado la licitaci\xC3\xB3n para un proyecto que debe ejecutarse en la Gerencia Territorial Huallaga Central, Jr. Arica S/N Block 01, Mariscal C\xC3\xA1ceres, Juanju\xC3\xAD, debes coordinar la entrega de los siguientes productos:
+- 845,300 unidades de FURADAN de 350 ml de SYNGENTA AG en cajas de 4 unidades (1 kg por caja).
+- 3,553 unidades de Juxtapid de 20 mg de Janssen en cajas de 6 unidades; el cliente requiere el cargamento paletizado (1 kg por caja, sin l\xC3\xADmite en l\xC3\xADneas de almacenamiento).
+- 2,100,000 unidades de alcohol glicerinado al 75 % en presentaci\xC3\xB3n de un litro.
+
+La log\xC3\xADstica, seg\xC3\xBAn Ballou (2004), es el proceso de planificar, implementar y controlar de manera eficiente el flujo y almacenamiento de bienes, servicios e informaci\xC3\xB3n desde el punto de origen hasta el punto de consumo. Christopher (2016) agrega que una gesti\xC3\xB3n log\xC3\xADstica eficaz incrementa la competitividad y la satisfacci\xC3\xB3n del cliente.
+
+Se te solicita elaborar:
+1. Una matriz con los c\xC3\xB3digos de barras de cada producto explicando el significado de sus d\xC3\xADgitos, el tipo de gesti\xC3\xB3n estrat\xC3\xA9gica de inventarios que emplear\xC3\xA1s en cada caso, el tipo de veh\xC3\xADculo necesario para transportar cada mercanc\xC3\xADa y el medio de transporte principal, se\xC3\xB1alando al menos dos razones de tu elecci\xC3\xB3n.
+2. Una matriz que describa el ciclo de compras para todas las adquisiciones que requiere el proyecto.
+3. Una matriz que indique el tipo de mercado en que compras y qu\xC3\xA9 clase de empresa provee cada producto, considerando el \xC3\x8Dndice de Potencial de Desarrollo (IPD).
+4. C\xC3\xA1lculo y justificaci\xC3\xB3n del n\xC3\xBAmero y tipo de contenedores necesarios, sabiendo que el primer producto se entrega en cajas de 4 unidades (25 \xC3\x97 20 \xC3\x97 30) FOB puerto de Busan y el segundo en cajas de 6 unidades (30 \xC3\x97 60 \xC3\x97 40) EXW en Pimpri-Chinchwad, Maharashtra.
+5. Un diagrama geogr\xC3\xA1fico de las rutas con ubicaci\xC3\xB3n de puertos, especificando para cada tramo el n\xC3\xBAmero y el tipo de veh\xC3\xADculos requeridos para mover la carga desde el origen hasta el destino final.
+6. Un diagrama de cadena de suministro que muestre las herramientas de IA usadas para cada producto, teniendo en cuenta el IPD.
+
+En la primera gr\xC3\xA1fica ASCII se representan las unidades aproximadas por producto en miles. La segunda gr\xC3\xA1fica muestra la distribuci\xC3\xB3n porcentual de los costos de transporte por v\xC3\xADa mar\xC3\xADtima, terrestre y a\xC3\xA9rea. Finalmente, la tercera gr\xC3\xA1fica resume los tiempos por fase de la cadena de suministro.
+
+La correcta administracion de estos procesos permitira optimizar el servicio al cliente, reducir costos y mantener un control eficiente de inventarios, tal como lo destacan Ballou (2004) y Christopher (2016) en sus trabajos sobre gestion logistica.
+
+Referencias
+Ballou, R. H. (2004). *Business Logistics/Supply Chain Management*. Pearson.
+Christopher, M. (2016). *Logistics & Supply Chain Management*. Pearson.
+
+Adicionalmente, la planificacion logistica debera contemplar un cronograma detallado de entregas y evaluacion de proveedores para asegurar la continuidad del abastecimiento a lo largo del proyecto.

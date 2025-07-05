@@ -1,0 +1,13 @@
+Unidades por producto (miles)
+FURADAN         |  0.3
+Juxtapid        |  0.553
+Alcohol         | ################################################## 2100
+
+Distribucion porcentual de transporte
+Maritimo        | ################################################## 60
+Terrestre       | ######################### 30
+Aereo           | ######## 10
+
+Tiempos por fase (dias)
+Suministro      | ############################### 5
+Produccion      | ################################################## 8
