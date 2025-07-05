@@ -1,4 +1,5 @@
 import os
+import sys
 import pandas as pd
 import matplotlib.pyplot as plt
 from docx import Document
@@ -33,7 +34,7 @@ def add_formatted(paragraph_text, doc, is_title=False, level=0):
 
 # === Document generation ===
 
-def generate_report(output_path='full_report.docx'):
+def generate_report(output_path='TRABAJO FINAL HPTA.docx'):
     doc = Document()
     for s in doc.sections:
         s.top_margin = Inches(1)
@@ -166,4 +167,6 @@ def generate_report(output_path='full_report.docx'):
     doc.save(output_path)
 
 if __name__ == '__main__':
-    generate_report()
+    out_file = sys.argv[1] if len(sys.argv) > 1 else 'TRABAJO FINAL HPTA.docx'
+    generate_report(out_file)
+    print(f"Documento '{out_file}' creado correctamente.")
